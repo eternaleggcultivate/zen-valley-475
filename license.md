@@ -105,6 +105,6 @@ Windows 10/11、macOS 12+ 且有 4 GB 内存即可 — 详见上方要求。
 
 ---
 
-**Project status:** ✅ Active · **Version:** 2026 build · **Last updated:** 2026-10-09 · **License:** 基于 MIT 许可证共享
+**Project status:** ✅ Active · **Version:** 2026 build · **Last updated:** 2026-10-10 · **License:** 基于 MIT 许可证共享
 
 *zen-valley-475*
